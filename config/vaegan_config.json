@@ -1,0 +1,15 @@
+{
+    "random_seed": 100,
+    "batch_size": 32,
+    "input_size": 128,
+    "z_dim": 128,
+    "n_channels": 3,
+    "dim_factor": 2,
+    "init_dim": 64,
+    "block_iteration": 4,
+    "epochs": 100,
+    "learning_rate": 3e-4,
+    "lambda_mse": 1e-6,
+    "decay_lr": 0.75,
+    "decay_mse": 1
+}
